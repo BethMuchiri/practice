@@ -1,0 +1,1 @@
+               const words = "Git commands -git diff shows changes between working and satging   -Thes are simple commands associated with git."
